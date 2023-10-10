@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Anime List Compose</string>
+    <string name="home">home</string>
+    <string name="about">about\n</string>
+    <string name="detail">detail\n</string>
+
+    <string-array name="data_name">
+        <item>Rem</item>
+        <item>Fubuki</item>
+        <item>Hinata Hyuga</item>
+        <item>Makima</item>
+        <item>Yor Forger</item>
+        <item>Kurisu Makise</item>
+        <item>Erza Scarlet</item>
+        <item>Mikasa Ackerman</item>
+        <item>Artoria Pendragon</item>
+        <item>Asuna Yuki</item>
+    </string-array>
+
+
+    <string-array name="data_anime_title">
+        <item>Re:Zero</item>
+        <item>One Punch Man</item>
+        <item>Naruto,Boruto</item>
+        <item>Chainsaw Man</item>
+        <item>Spy x Family</item>
+        <item>Steins;Gate</item>
+        <item>Fairy Tail</item>
+        <item>Attack on Titan</item>
+        <item>Fate/Stay Night</item>
+        <item>Sword Art Online</item>
+    </string-array>
+
+    <string-array name="data_age">
+        <item>19</item>
+        <item>23</item>
+        <item>32</item>
+        <item>79</item>
+        <item>27</item>
+        <item>18</item>
+        <item>28</item>
+        <item>19</item>
+        <item>35</item>
+        <item>19</item>
+    </string-array>
+
+    <string-array name="data_birth_day">
+        <item>February 2</item>
+        <item>October 5</item>
+        <item>December 27</item>
+        <item>Unknown</item>
+        <item>April 6</item>
+        <item>July 25</item>
+        <item>April 7</item>
+        <item>February 10</item>
+        <item>April 10</item>
+        <item>September 30</item>
+    </string-array>
+
+    <string-array name="data_voiced_by">
+        <item>Inori Minase</item>
+        <item>Saori Hayami</item>
+        <item>Nana Mizuki</item>
+        <item>Tomori Kusunoki</item>
+        <item>Saori Hayami</item>
+        <item>Asami Imai</item>
+        <item>Sayaka Ohara</item>
+        <item>Yui Ishikawa</item>
+        <item>Ayako Kawasumi</item>
+        <item>Haruka Tomatsu</item>
+    </string-array>
+
+    <integer-array name="data_waifu_photo">
+        <item>@drawable/rem</item>
+        <item>@drawable/fubuki</item>
+        <item>@drawable/hinata_hyuga</item>
+        <item>@drawable/makima</item>
+        <item>@drawable/yor_forger</item>
+        <item>@drawable/kurisu_makise</item>
+        <item>@drawable/erza_scarlet</item>
+        <item>@drawable/mikasa_ackerman</item>
+        <item>@drawable/artoria_pendragon</item>
+        <item>@drawable/asuna_yuki</item>
+    </integer-array>
+
+    <integer-array name="data_voice_photo">
+        <item>@drawable/inori_minase</item>
+        <item>@drawable/saori_hayami</item>
+        <item>@drawable/nana_mizuki</item>
+        <item>@drawable/tomori_kusunoki</item>
+        <item>@drawable/saori_hayami</item>
+        <item>@drawable/asami_imai</item>
+        <item>@drawable/sayaka_ohara</item>
+        <item>@drawable/yui_ishikawa</item>
+        <item>@drawable/ayako_kuwasumi</item>
+        <item>@drawable/haruka_tomatsu</item>
+    </integer-array>
+</resources>
